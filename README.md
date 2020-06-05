@@ -1,3 +1,7 @@
 Default docker port: `8080`
 
-Original document: [https://github.com/slatedocs/slate](https://github.com/slatedocs/slate)
+ถ้าจะแก้ port ให้แก้ใน file `config.rb` และ `Dockerfile`
+
+----
+
+Original Slate document: [https://github.com/slatedocs/slate](https://github.com/slatedocs/slate)
